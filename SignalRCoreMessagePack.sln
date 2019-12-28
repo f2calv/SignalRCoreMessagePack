@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRCoreMessagePack", "SignalRCoreMessagePack\SignalRCoreMessagePack.csproj", "{A2B9C99B-A207-40BD-9E5C-D0000913D34E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B9C99B-A207-40BD-9E5C-D0000913D34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B9C99B-A207-40BD-9E5C-D0000913D34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B9C99B-A207-40BD-9E5C-D0000913D34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B9C99B-A207-40BD-9E5C-D0000913D34E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2EC623-1CCC-4D81-A489-5F133ACEEA1F}
+	EndGlobalSection
+EndGlobal
